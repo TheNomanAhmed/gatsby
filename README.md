@@ -168,6 +168,4 @@ We are currently only accepting bug fixes for Gatsby v1. No new features will be
 Licensed under the [MIT License](./LICENSE).
 
 ## 💜 Thanks to Our Contributors and Sponsors
-
-Thanks to our many contributors and sponsors as well as the companies sponsoring
 our testing and hosting infrastructure: [Circle CI](https://circleci.com/), [Appveyor](https://www.appveyor.com/), and [Netlify](https://www.netlify.com/).
